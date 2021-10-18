@@ -26,5 +26,8 @@ If you would like to contribute, fork this repository and send a pull request. I
 
 
 
-This repository contains code that tells if you're favorite number is divisible by 3 and also another program that adds two numbers together and tells you the sum.
+## WHy we Chose the Code of Conduct
+
+We use the "Do What You Want" code of conduct because we truly do not care what you do with the code. It is inconsequential to us. As long as you aren't a bad person, we are okay with it.
+
 
