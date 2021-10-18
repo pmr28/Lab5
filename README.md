@@ -1,6 +1,7 @@
 # Lab5
 Lab5 Exercises
 
+<<<<<<< HEAD
 The code written has two main functions. The first is to return whether your favoirte number is divisible by 3.The other function takes two inputted numbers and will tell you the sum of the two.  
 
 ## Installation
@@ -23,4 +24,7 @@ The Programs will ask you to input a number. Input any number from your keyboard
 If you would like to contribute, fork this repository and send a pull request. I will accept the pull request if your additions improve the repository. It better be good.
 
 
+
+
+This repository contains code that tells if you're favorite number is divisible by 3 and also another program that adds two numbers together and tells you the sum.
 
